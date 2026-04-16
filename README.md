@@ -13,13 +13,18 @@ https://www.canva.com/design/DAHBKZer2X4/YARC4_o1YAw-OuIML3J2uA/edit
 ## Aula 5 09/04 - Aquisição e tratamento de dados abertos.
 <img width="1026" height="311" alt="17763781884508340990047216338981" src="https://github.com/user-attachments/assets/dc3fdb2a-2b61-4311-91c2-13f98ef458e1" />
 ## Aula 6 10/04 até 15/04 - Acessar dados abertos do Estado de São Paulo, baixar um conjunto de dados e elaborar e responder 5 perguntas.
-pergunta 1
+# pergunta 1
+
 <img width="902" height="268" alt="17763782416676334648669635300206" src="https://github.com/user-attachments/assets/edc58bb4-ed66-433d-b9ce-d125b8ad67ee" />
-pergunta 2
+# pergunta 2
+
 <img width="724" height="82" alt="17763783509885903259761177842100" src="https://github.com/user-attachments/assets/7828b32e-5cba-460d-92b5-93e94880dbd1" />
-pergunta 3
+# pergunta 3
+
 <img width="608" height="248" alt="17763783737632011225752902942422" src="https://github.com/user-attachments/assets/d4578732-53cf-4e26-895b-4b9441b1a5b0" />
-pergunta 4
+# pergunta 4
+
 <img width="451" height="124" alt="17763783988685368595586960863097" src="https://github.com/user-attachments/assets/db5e5729-a666-43f9-821a-cec0263e6a13" />
-pergunta 5
+# pergunta 5
+
 <img width="902" height="264" alt="17763784208255155406288042286324" src="https://github.com/user-attachments/assets/87bdca40-fb60-439d-ad6b-266f53ca878c" />
