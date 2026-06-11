@@ -32,3 +32,5 @@ https://www.canva.com/design/DAHBKZer2X4/YARC4_o1YAw-OuIML3J2uA/edit
 <img width="1156" height="651" alt="17812187896343846857010157205320" src="https://github.com/user-attachments/assets/497543ed-5641-42f6-b396-b3da73d3e7d8" />
 # Aula de PowerBI
 <img width="1304" height="738" alt="17812191824728316114404918802356" src="https://github.com/user-attachments/assets/105ce216-a80a-492f-bb86-50548c4d51b1" />
+# Aula de poweBi
+<img width="1314" height="737" alt="17812208841892728583250060993004" src="https://github.com/user-attachments/assets/35e2edd5-c934-4043-8130-78fd65cbf191" />
