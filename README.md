@@ -28,4 +28,5 @@ https://www.canva.com/design/DAHBKZer2X4/YARC4_o1YAw-OuIML3J2uA/edit
 # pergunta 5
 
 <img width="902" height="264" alt="17763784208255155406288042286324" src="https://github.com/user-attachments/assets/87bdca40-fb60-439d-ad6b-266f53ca878c" />
+# Atividades sinistro-poweBi
 <img width="1156" height="651" alt="17812187896343846857010157205320" src="https://github.com/user-attachments/assets/497543ed-5641-42f6-b396-b3da73d3e7d8" />
