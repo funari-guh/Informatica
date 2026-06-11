@@ -34,3 +34,6 @@ https://www.canva.com/design/DAHBKZer2X4/YARC4_o1YAw-OuIML3J2uA/edit
 <img width="1304" height="738" alt="17812191824728316114404918802356" src="https://github.com/user-attachments/assets/105ce216-a80a-492f-bb86-50548c4d51b1" />
 # Aula de poweBi
 <img width="1314" height="737" alt="17812208841892728583250060993004" src="https://github.com/user-attachments/assets/35e2edd5-c934-4043-8130-78fd65cbf191" />
+# atividade em aula
+Criação de um Dashboard sobre venda de cerveja e sorvete, utilizando os conhecimentos adquiridos ao longo do semestre
+<img width="1313" height="740" alt="17812211036515083445740415339767" src="https://github.com/user-attachments/assets/b282f3be-f445-4ebf-92b1-4f724be1d6be" />
